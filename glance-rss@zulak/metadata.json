@@ -1,0 +1,10 @@
+{
+    "uuid": "glance-rss@zulak",
+    "name": "Glance RSS",
+    "description": "Lecteur multi-flux RSS professionnel.\nDevelopped by ©Zulak (With the help of Gemini AI)\n\n• Surveillance de mots-clés\n• Navigation par zones de clic\n\nLogiciel libre sous licence GNU GPL 3.0.",
+    "author": "Zulak & Gemini AI",
+    "version": "1.0.7",
+    "max-instance": -1,
+    "icon": "preferences-desktop-remote-desktop",
+    "url": "https://github.com/Zulak-git/glance_rss"
+}
